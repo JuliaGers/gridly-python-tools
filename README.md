@@ -1,4 +1,4 @@
-# Gridly Python Tools
+# Gridly Search
 
 A Python script for searching the [Gridly](https://gridly.com) API. No third-party packages required — only Python's standard library.
 
@@ -7,7 +7,7 @@ A Python script for searching the [Gridly](https://gridly.com) API. No third-par
 ## Tool
 
 ### `Search_Gridly.py`
-Loads all records from your Gridly view into memory and lets you run fast, repeated keyword searches across all columns from the terminal. Supports searching by text string or Record ID — searching by ID shows all translations for that record.
+Loads all records from your Gridly view into memory and lets you run fast, repeated keyword searches across all columns from the terminal. Supports searching by text string or Record ID — searching by ID shows all translations for that record. Searching for a text string shows all records with search hits.
 
 **Run:** Double-click the file, or `python Search_Gridly.py`
 Press `Enter` with no input to quit.
