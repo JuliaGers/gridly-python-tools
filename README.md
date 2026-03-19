@@ -14,11 +14,7 @@ Loads all records from your Gridly view into memory and lets you run fast, repea
 
 ## Setup
 
-### 1. Install Python
-Download from [python.org/downloads](https://www.python.org/downloads/).
-On Windows, check **"Add Python to PATH"** during installation.
-
-### 2. Configure your credentials
+### Configure your credentials
 Create a `.env` file in the same folder as the script with the following:
 
 ```
